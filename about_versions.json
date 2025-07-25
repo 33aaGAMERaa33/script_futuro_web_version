@@ -4,7 +4,7 @@
         "stable": false
     },
     "0.0.2": {
-        "obrigatory": true,
+        "obrigatory": false,
         "stable": false
     }
 }
