@@ -1,6 +1,34 @@
 {
-    "0.0.2": {
-        "obrigatory": true,
-        "stable": false
-    }
+  "0.0.1": {
+    "obrigatory": true,
+    "stable": false
+  },
+  "0.0.2": {
+    "obrigatory": false,
+    "stable": false
+  },
+  "0.1.0": {
+    "obrigatory": false,
+    "stable": true
+  },
+  "0.2.0": {
+    "obrigatory": false,
+    "stable": false
+  },
+  "1.0.0": {
+    "obrigatory": true,
+    "stable": true
+  },
+  "1.1.0": {
+    "obrigatory": false,
+    "stable": false
+  },
+  "1.2.0": {
+    "obrigatory": false,
+    "stable": true
+  },
+  "2.0.0": {
+    "obrigatory": true,
+    "stable": false
+  }
 }
