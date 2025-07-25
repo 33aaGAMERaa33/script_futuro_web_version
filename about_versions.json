@@ -26,9 +26,5 @@
   "1.2.0": {
     "obrigatory": false,
     "stable": true
-  },
-  "2.0.0": {
-    "obrigatory": true,
-    "stable": false
   }
 }
