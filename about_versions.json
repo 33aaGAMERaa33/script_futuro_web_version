@@ -2,9 +2,5 @@
     "0.0.1": {
         "obrigatory": true,
         "stable": false
-    },
-    "0.0.2": {
-        "obrigatory": false,
-        "stable": false
     }
 }
