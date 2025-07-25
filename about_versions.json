@@ -1,9 +1,9 @@
 {
-    "0.0.1": {
+    "0.0.2": {
         "obrigatory": true,
         "stable": false
     },
-    "0.0.2": {
+    "0.0.1": {
         "obrigatory": true,
         "stable": false
     }
